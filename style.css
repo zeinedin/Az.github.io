@@ -183,8 +183,8 @@
 .main__img--container img {
     text-align: center;
     height: 89.5vh;
-    width: 120%;
-    margin-left: 10px;
+    width: 100%;
+    
     margin-top: 1px;
     
 }
